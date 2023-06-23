@@ -1,0 +1,35 @@
+@media only screen and (max-width:600px) {
+    .menu,
+    .form {
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+        position: relative;
+        top: -5%;
+    }
+    .logo {
+        width: 200px;
+        height: 200px;
+    }
+}
+body {
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+    border-style: dotted;
+    color: #4b0069;
+    background-color: #b3a3df
+}
+
+h3 {
+    color: #ffffff;
+    font-weight: bolder;
+    font-family: Helvetica, Geneva, sans-serif;
+    text-align: center
+}
+
+a:link {
+    color: lightslategray
+}
+
+a:visited {
+    color: violet
+}
