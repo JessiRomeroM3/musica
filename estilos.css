@@ -18,6 +18,10 @@ body {
     color: #dbaad7;
     background-color: #dbaad7;
 }
+img {
+    width: 150px;
+    height: 150px;
+}
 h1 {
     color: #ffffff;
     font-weight: bolder;
