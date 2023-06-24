@@ -29,6 +29,9 @@ div {
     width: auto;
     border-width: 2px;
 }
+.myDiv {
+    position:absolute;
+}
 pre {
     tab-size: 4;
     color: white;
