@@ -18,6 +18,12 @@ body {
     color: #dbaad7;
     background-color: #dbaad7;
 }
+pre {
+    tab-size: 4;
+    background: rgb(140, 96, 211);
+    color: aliceblue;
+    padding: 20px;
+}
 h1 {
     color: #ffffff;
     font-weight: bolder;
